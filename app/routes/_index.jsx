@@ -31,8 +31,6 @@ export default function Index() {
                     key={collection.id}
                     sizes="(max-width: 32em) 100vw, 33vw"
                     crop="center"
-                    height={'32em'}
-                    width={'32em'}
                   />
                 )}
                 <h2 className="whitespace-pre-wrap max-w-prose font-medium text-copy">
