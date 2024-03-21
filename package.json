@@ -1,6 +1,6 @@
 {
   "name": "cool-me",
-  "private": false,
+  "private": true,
   "sideEffects": false,
   "version": "1.0.1",
   "scripts": {
